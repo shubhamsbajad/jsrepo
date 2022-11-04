@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: rgb(234, 184, 184);
+    border: 2px solid black;
+  
+}
+h4{
+    font-size: large;
+    font-weight: bold;
+}
+
+   
